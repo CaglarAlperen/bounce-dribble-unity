@@ -1,6 +1,6 @@
 # Screenshots
 
-<img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Bounce%20Dribble/Screenshots/Screenshot1.PNG" width="216" height="384">  <img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Bounce%20Dribble/Screenshots/Screenshot2.PNG" width="216" height="384"> <img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Bounce%20Dribble/Screenshots/Screenshot3.PNG" width="216" height="384"> <img src="https://github.com/CaglarAlperen/Unity-Projects/blob/main/Bounce%20Dribble/Screenshots/Screenshot4.PNG" width="216" height="384">
+<img src="https://github.com/CaglarAlperen/bounce-dribble-unity/blob/main/Screenshots/Screenshot1.PNG" width="216" height="384">  <img src="https://github.com/CaglarAlperen/bounce-dribble-unity/blob/main/Screenshots/Screenshot2.PNG" width="216" height="384"> <img src="https://github.com/CaglarAlperen/bounce-dribble-unity/blob/main/Screenshots/Screenshot3.PNG" width="216" height="384"> <img src="https://github.com/CaglarAlperen/bounce-dribble-unity/blob/main/Screenshots/Screenshot4.PNG" width="216" height="384">
 
 # Gameplay
 
